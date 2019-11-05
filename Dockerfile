@@ -20,8 +20,6 @@ RUN apk add --no-cache --update \
     aria2 \
     util-linux \
     libevent \
-    chromium \
-    chromium-chromedriver \
     jpeg-dev \
     libffi-dev \
     libpq \
