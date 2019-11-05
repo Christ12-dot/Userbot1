@@ -19,6 +19,7 @@ RUN apk add --no-cache --update \
     sudo \
     aria2 \
     util-linux \
+    libevent \
     chromium \
     chromium-chromedriver \
     jpeg-dev \
